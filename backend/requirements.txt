@@ -1,0 +1,5 @@
+fastapi[standard]
+sqlmodel==0.0.24
+sqlalchemy==2.0.41
+passlib== 1.7.4
+PyJWT==24.3.1
